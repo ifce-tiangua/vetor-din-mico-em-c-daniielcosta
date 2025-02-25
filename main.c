@@ -32,6 +32,5 @@ int main() {
     printf("]\n");
 
     free(vetor);
-
     return 0;
 }
